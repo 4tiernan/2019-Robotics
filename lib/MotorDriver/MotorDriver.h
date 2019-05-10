@@ -2,7 +2,7 @@
 #define MOTOR_DRIVER_H
 
 #include <Arduino.h>
-#include <Pins.h>
+#include <Pins_Main.h>
 #include <PID.h>
 #include <Functions.h>
 
